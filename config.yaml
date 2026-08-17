@@ -1,0 +1,4 @@
+dashboard:
+  basic_auth:
+    username: victor
+    password_hash: "$2b$12$6dOQOVC5uSqXZ5QeWqRwIOnZ3R5yCJ0KkL1M2N3O4P5Q6R7S8T9U0V"
